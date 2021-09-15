@@ -13,9 +13,9 @@ I used the following technologies: Selenium 2, TestNG, Java, Maven, CircleCI and
 Prerequisites
 ---
 
-- ChromeDriver
 - JDK 8+
 - Any IDE
+- Maven
 
 Instructions to run test
 ---
