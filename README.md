@@ -1,4 +1,4 @@
-# Automation Test for Search Functionality using Selenium and Java.
+# Automated Web UI Test for Search Functionality using Selenium and Java.
 ===
 
 [![CircleCI](https://circleci.com/gh/pasignature/Automated-Selenium-Test---Search-Functionality.svg?style=svg)](https://circleci.com/gh/pasignature/Automated-Selenium-Test---Search-Functionality)
